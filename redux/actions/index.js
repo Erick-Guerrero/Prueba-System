@@ -25,7 +25,7 @@ export const CLEAN_UP_DATA_IN_CHECK = 'CLEAN_UP_DATA_IN_CHECK';
 
 //const app = "https://erick-guerrero-back-production.up.railway.app";
 
-const app = "https://prueba-back-production-ec63.up.railway.app/"
+const app = "https://prueba-back-production-ec63.up.railway.app"
 
 //const app = "http://localhost:3002";
 
